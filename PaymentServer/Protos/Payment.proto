@@ -1,0 +1,27 @@
+
+syntax = "proto3";
+
+option csharp_namespace = "PaymentServer";
+
+package greet;
+
+// The greeting service definition.
+service Greeter {
+  // Sends a greeting
+  rpc SendPaymentInformation (PaymentRequest) returns (PaymentResponse);
+}
+
+// The request message containing the user's name.
+message PaymentRequest {
+   int32 Id = 1;
+   float Montant = 2;
+   string NumberCard = 3;
+   string DateCard = 4;
+   string Name = 5;
+   string SecurityCode = 6;
+}
+
+// The response message containing the greetings.
+message PaymentResponse {
+  bool PaymentSuccessed = 1;
+}

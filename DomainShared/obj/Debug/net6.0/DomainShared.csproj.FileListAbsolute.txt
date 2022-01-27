@@ -1,0 +1,12 @@
+D:\Perso\Dev\BookingApp\DomainShared\bin\Debug\net6.0\DomainShared.deps.json
+D:\Perso\Dev\BookingApp\DomainShared\bin\Debug\net6.0\DomainShared.dll
+D:\Perso\Dev\BookingApp\DomainShared\bin\Debug\net6.0\ref\DomainShared.dll
+D:\Perso\Dev\BookingApp\DomainShared\bin\Debug\net6.0\DomainShared.pdb
+D:\Perso\Dev\BookingApp\DomainShared\obj\Debug\net6.0\DomainShared.csproj.AssemblyReference.cache
+D:\Perso\Dev\BookingApp\DomainShared\obj\Debug\net6.0\DomainShared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Perso\Dev\BookingApp\DomainShared\obj\Debug\net6.0\DomainShared.AssemblyInfoInputs.cache
+D:\Perso\Dev\BookingApp\DomainShared\obj\Debug\net6.0\DomainShared.AssemblyInfo.cs
+D:\Perso\Dev\BookingApp\DomainShared\obj\Debug\net6.0\DomainShared.csproj.CoreCompileInputs.cache
+D:\Perso\Dev\BookingApp\DomainShared\obj\Debug\net6.0\DomainShared.dll
+D:\Perso\Dev\BookingApp\DomainShared\obj\Debug\net6.0\ref\DomainShared.dll
+D:\Perso\Dev\BookingApp\DomainShared\obj\Debug\net6.0\DomainShared.pdb

@@ -1,0 +1,11 @@
+﻿.idea
+.vs
+ClientWebSocket/bin
+ClientWebSocket/obj
+DomainShared/bin
+MailApp/bin
+MailApp/obj
+PaymentServer/bin
+PaymentServer/obj
+WebApp/bin
+WebApp/obj
